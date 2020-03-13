@@ -1,6 +1,6 @@
 ## DESCRIPTION
 Using Visual Basic for Application(VBA) tool to perform effective analysis on stock data.
-(All Stocks Analysis) contains the refactor code
+Note: (All Stocks Analysis) contains the refactor code
 
 ### SITUATION/TASK
 Create a VBA macro that can trigger pop-ups and inputs, read and change cell values, and format cells. Also, use for loops
